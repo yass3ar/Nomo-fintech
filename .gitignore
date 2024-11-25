@@ -1,6 +1,6 @@
 *.iml
 .gradle
-node_modules/
+/node_modules/
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -14,3 +14,5 @@ node_modules/
 .externalNativeBuild
 .cxx
 local.properties
+allure-report/
+allure-results/
