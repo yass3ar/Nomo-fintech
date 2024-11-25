@@ -1,5 +1,6 @@
 *.iml
 .gradle
+/WebDriverAgent/
 /node_modules/
 /local.properties
 /.idea/caches
